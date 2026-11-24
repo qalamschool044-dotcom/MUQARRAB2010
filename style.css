@@ -1,0 +1,185 @@
+.qw{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    color: #192252;
+
+}
+.qe{
+    background-color: #0E1734;
+    padding-left: 15px;
+    color: white;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: none;
+    border-radius: 5px;
+
+}
+.er{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+
+}
+.er p{
+    color: #848FAC;
+}
+.op{
+    margin-top: 150px;
+}
+.tr img {
+    height: 500px;
+    margin-left: 20px
+}
+.er h1{
+    color: #192252;
+}
+ button{
+    background-color: #0E1734;
+    padding-left: 15px;
+    color: white;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: none;
+    border-radius: 5px;
+
+
+}
+.as{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.as img{
+    height: 500px;
+}
+.po{
+    margin-top: 100px;
+    color: #192252;
+}
+button{
+    background-color: #0E1734;
+    padding-left: 15px;
+    color: white;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.kl{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+
+}
+.gh{
+    margin-top: 100px;
+    color: #192252;
+}
+
+.mz{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.zm{
+    margin-top: 100px;
+    color: #192252;
+}
+
+.mz1{
+    margin-top: 150px;
+    text-align: center;
+    color: #192252;
+}
+.mz2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    color: #192252;
+
+}
+.zm1{
+    
+}
+.zm1 button{
+    color: #192252;
+    background-color: white;
+    margin-top: 30PX;
+
+
+}
+
+.zm0{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-around;
+}
+.zm00{
+    margin-top: px;
+}
+.zm00 p{
+    color: #848FAC;
+}
+.zm00 h3{
+     color: #192252;
+}
+
+.mzm0 h3{
+     box-shadow:2px 2px 5px rgb(221, 208, 208);
+     padding: 10px 10px 10px ;
+    
+}
+.muz0{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.uqob{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.champ{
+    margin-top: 20px;
+}
+.h3{
+    color: #192252;
+}
+.muz0 p{
+    color: #848FAC;
+}
+.glavni0{
+    display: flex;
+    background-color: #0B265A;
+    color: white;
+    justify-content: space-around;
+    margin-top: 50px;
+    height: 300px;
+    align-items: center;
+}
+.glavni20{
+    display: flex;
+   
+    
+}
+.molo{
+    margin-left: 30px;
+}
+.duck{
+    margin-top: 40px;
+  
+}
+.ddff{
+  margin-left: 30px;
+}
+
+
+
+
+    
+
+
